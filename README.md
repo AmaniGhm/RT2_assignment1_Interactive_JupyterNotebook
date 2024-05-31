@@ -9,7 +9,7 @@ This project implements an interactive graphical user interface (GUI) in Jupyter
 3. Run Jupyter Notebook: `jupyter notebook`.
 4. Open `Amani_Ghomrrani_RT2_Assignment2.ipynb`.
 5. Interact: Use buttons to set/cancel targets, visualize trajectory.
-6. For this particular project check the README file inside the RT_Assignment2_Amani_Ghomtani folder
+6. For this particular project check the README file inside the RT_Assignment2_Amani_Ghomtani folder.
 
 ## Features
 
@@ -24,4 +24,3 @@ This project implements an interactive graphical user interface (GUI) in Jupyter
 
 - ROS.
 - Jupyter Notebook.
-
